@@ -27,8 +27,8 @@ Make sure to provide the database credentials in the argumentsFunctions/sqlDB.go
 You also need to provide Jira credentials for authentication. You can use either basic authentication (username and password) or a token key.
 
 ## Installation and Usage
-1. Clone the repository: git clone https://github.com/yourusername/GoCLIForJira.git
-2. Navigate to the project directory: cd GoCLIForJira
+1. Clone the repository: git clone https://github.com/Shaurya0300/goJiraCLI.git
+2. Navigate to the project directory: cd goJiraCLI
 3. Install dependencies: go mod tidy
 4. Build the CLI tool: go build -o jira main.go
 
